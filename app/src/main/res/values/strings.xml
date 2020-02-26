@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MegaGame</string>
+    <string name="lblTitle"> Veuillez saisir une valeur entre 1 et 100: </string>
+    <string name="btnEnvoyer"> Envoyer</string>
+
+    <string name="strTaller">Veuillez saisir une valeur plus grande </string>
+    <string name="strSmaller">Veuillez saisir une valeur plus petite </string>
+    <string name="strCongatulation">Félicitation</string>
+    <string name="strMessage">Félicitation, vous avez trouvé en %d coups. Voulez-vous rejouer ? </string>
+    <string name="strBtnPositif">OUI</string>
+    <string name="strBtnNegatif">NON</string>
+</resources>
